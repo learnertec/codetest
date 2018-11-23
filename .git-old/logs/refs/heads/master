@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 c73840883331c214860a8b7760066ee0c65e41eb Your Name <you@example.com> 1542953650 +0530	commit (initial): initial commit
+c73840883331c214860a8b7760066ee0c65e41eb 8c1cda2730bad16aef79d810c4f6e58b5ac68f80 Your Name <you@example.com> 1542954320 +0530	commit: added and configure bootstrap gem
+8c1cda2730bad16aef79d810c4f6e58b5ac68f80 e94f44fa2f0d0fd41fb3cc542cf92bfbdf39fce5 Your Name <you@example.com> 1542954796 +0530	commit: add a basic navigation bar
+e94f44fa2f0d0fd41fb3cc542cf92bfbdf39fce5 56b684258a6d5439111fa536b253a57df13ba4e7 Your Name <you@example.com> 1542955067 +0530	commit: change navbartext
